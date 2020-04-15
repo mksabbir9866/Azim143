@@ -52,11 +52,11 @@ def jalan(z):
 ##### LOGO #####
 logo = """
 \033[0;39m░█████╗░███████╗██╗███╗░░░███╗
-\033[0;39m██╔══██╗╚════██║██║████╗░████║
+\033[1;92m██╔══██╗╚════██║██║████╗░████║
 \033[0;39m███████║░░███╔═╝██║██╔████╔██║
-\033[0;39m██╔══██║██╔══╝░░██║██║╚██╔╝██║
+\033[1;92m██╔══██║██╔══╝░░██║██║╚██╔╝██║
 \033[0;39m██║░░██║███████╗██║██║░╚═╝░██║
-\033[0;39m╚═╝░░╚═╝╚══════╝╚═╝╚═╝░░░░░╚═╝
+\033[1;92m╚═╝░░╚═╝╚══════╝╚═╝╚═╝░░░░░╚═╝
 \033[1;97m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;92m๑۩۩๑\033[1;97m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;97mAuthor©\033[1;97m: \033[1;92mAzim Mahmud
 \033[1;97mInstagram\033[1;97m: \033[1;92mhttps://www.Instagram.com/azimmahmud143
@@ -117,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.Facebook.com/Omi6t')
+            os.system('xdg-open https://www.Facebook.com/mr.azim.vau')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.Facebook.com/Omi6t')
+        os.system('xdg-open https://www.Facebook.com/mr.azim.vau')
 
 def login():
 	os.system('clear')

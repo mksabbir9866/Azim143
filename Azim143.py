@@ -104,7 +104,7 @@ jalan("\033[1;97m    Security,That's not Commands Issue.")
 print "\033[1;91m«-------------\033[1;93mLogin With Tool\033[1;91m-------------»"
 
 CorrectUsername = "Azim"
-CorrectPassword = "Azim"
+CorrectPassword = "Azim!"
 
 loop = 'true'
 while (loop == 'true'):
@@ -117,10 +117,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;91mWrong Password"
-            os.system('xdg-open https://www.Facebook.com/mr.azim.vau')
+            os.system('xdg-open https://www.Facebook.com/100022097600640')
     else:
         print "\033[1;91mWrong Username"
-        os.system('xdg-open https://www.Facebook.com/mr.azim.vau')
+        os.system('xdg-open https://www.Facebook.com/100022097600640')
 
 def login():
 	os.system('clear')

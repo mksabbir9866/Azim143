@@ -91,9 +91,9 @@ print  """
    \033[1;92m\_/\_/ |___|____|\___\___/|_|  |_|___|
 \033[1;91m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\033[1;93m๑۩۩๑\033[1;91m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;91mAuthor©\033[1;91m: \033[1;93mAzim Mahmud
-\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/mr.azim.vau
-\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/azimmahmud143
-\033[1;91mWhatsapp\033[1;91m: \033[1;93m+923117675174
+\033[1;91mInstagram\033[1;91m: \033[1;93mhttps://www.Instagram.com/azimmahmud143
+\033[1;91mFacebook\033[1;91m: \033[1;93mhttps://www.facebook.com/100022097600640
+\033[1;91mWhatsapp\033[1;91m: \033[1;93m+8801766093890
 \033[1;91m«--------------------\033[1;93m✧\033[1;91m--------------------»"""
 jalan('              \033[1;91mREAD CAREFULLY:')
 jalan("\033[1;97m   It's not in Commands Control to get a   ")
